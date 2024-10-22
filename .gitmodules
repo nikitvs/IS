@@ -1,0 +1,3 @@
+[submodule "BuildToolkit"]
+	path = modules/BuildToolkit
+	url = git@github.com:nikitvs/BuildToolkit.git
